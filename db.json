@@ -43,6 +43,150 @@
           "capacity": 70634
         }
       ]
+    },
+    {
+      "id": 3,
+      "name": "SSC Napoli",
+      "code": "NAP",
+      "country": "Italy",
+      "year_of_creation": 1926,
+      "owner": "Filmauro",
+      "coach": "Luciano Spalletti",
+      "address": [
+        "city": "Naples",
+        "street": "Via del Maio di Porto ",
+        "number": 9
+      ],
+      "stadium": [
+        "name": "Stadio Diego Armando Maradona",
+        "capacity": 54726
+      ]
+    },
+    {
+      "id": 4,
+      "name": "FC Bayern Munich",
+      "code": "FCB",
+      "country": "Germany",
+      "year_of_creation": 1900,
+      "owner": "Herbert Hainer",
+      "coach": "Julian Nagelsmann",
+      "address": [
+        "city": "Munich",
+        "street": "Säbener Straße",
+        "number": 51
+      ],
+      "stadium": [
+        "name": "Allianz Arena",
+        "capacity": 75024
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Borussia Dortmund",
+      "code": "BVB",
+      "country": "Germany",
+      "year_of_creation": 1909,
+      "owner": "Reinhard Rauball",
+      "coach": "Edin Terzić",
+      "address": [
+        "city": "Dortmund",
+        "street": "Rheinlanddamm",
+        "number": 207
+      ],
+      "stadium": [
+        "name": "Signal Iduna Park",
+        "capacity": 81365
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Olympique de Marseille",
+      "code": "OLM",
+      "country": "France",
+      "year_of_creation": 1899,
+      "owner": "Frank McCourt",
+      "coach": "Igor Tudor",
+      "address": [
+        "city": "Marseille",
+        "street": "Place Daviel",
+        "number": 1
+      ],
+      "stadium": [
+        "name": "Stade Vélodrome",
+        "capacity": 67394
+      ]
+    },
+    {
+      "id": 7,
+      "name": "FC Barcelona",
+      "code": "BAR",
+      "country": "Spain",
+      "year_of_creation": 1899,
+      "owner": "Joan Laporta",
+      "coach": "Xavier Hernandez Creus",
+      "address": [
+        "city": "Barcelona",
+        "street": "Avinguda Arístides Maillol",
+        "number": 1
+      ],
+      "stadium": [
+        "name": "Camp Nou",
+        "capacity": 99354
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Chelsea FC",
+      "code": "CHE",
+      "country": "England",
+      "year_of_creation": 1905,
+      "owner": "Todd Boehly",
+      "coach": "Graham Potter",
+      "address": [
+        "city": "Chelsea",
+        "street": "Fulham Road",
+        "number": 1
+      ],
+      "stadium": [
+        "name": "Stamford Bridge",
+        "capacity": 41837
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Manchester United FC",
+      "code": "MUN",
+      "country": "England",
+      "year_of_creation": 1878,
+      "owner": "The Glazer family",
+      "coach": "Erik ten Hag",
+      "address": [
+        "city": "Manchester",
+        "street": "Sir Matt Busby Way",
+        "number": 16
+      ],
+      "stadium": [
+        "name": "Old Trafford",
+        "capacity": 74310
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Celtic FC",
+      "code": "CEL",
+      "country": "Scotland",
+      "year_of_creation": 1887,
+      "owner": "Ian Bankier",
+      "coach": "Ange Postecoglou",
+      "address": [
+        "city": "Glasgow",
+        "street": "Kerrydale Street",
+        "number": 18
+      ],
+      "stadium": [
+        "name": "Celtic Park",
+        "capacity": 60411
+      ]
     }
   ]
 }
