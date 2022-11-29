@@ -8,19 +8,18 @@
       "year_of_creation": 1926,
       "owner": "Rocco Commisso",
       "coach": "Vincenzo Italiano",
-      "address": [
+      "address":
         {
           "city": "Fiorentina",
           "street": "Via M. Fanti",
           "number": 4
-        }
-      ],
-      "stadium": [
+        },
+
+      "stadium":
         {
           "name": "Stadio Artemio Franchi",
           "capacity": 43147
         }
-      ]
     },
     {
       "id": 2,
@@ -30,19 +29,17 @@
       "year_of_creation": 1927,
       "owner": "The Friedkin Group, Inc.",
       "coach": "Jose Mourinho",
-      "address": [
+      "address":
         {
           "city": "Rome",
           "street": "Piazzale Dino Viola",
           "number": 1
-        }
-      ],
-      "stadium": [
+        },
+      "stadium":
         {
           "name": "Stadio Olimpico",
           "capacity": 70634
         }
-      ]
     }
   ]
 }
