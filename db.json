@@ -6,59 +6,60 @@
       "code": "FIO",
       "country": "Italy"
     },
-    {
+        {
       "id": 2,
-      "name": "Torino FC",
-      "code": "TOR",
-      "country": "Italy"
-    },
-    {
-      "id": 3,
-      "name": "Hellas Verona",
-      "code": "HEL",
-      "country": "Italy"
-    },
-    {
-      "id": 4,
       "name": "AS Roma",
       "code": "ROM",
       "country": "Italy"
     },
     {
-      "id": 5,
-      "name": "Parma",
-      "code": "PAR",
-      "country": "Italy"
-    },
-    {
-      "id": 6,
+      "id": 3,
       "name": "SSC Napoli",
       "code": "NAP",
       "country": "Italy"
     },
     {
+      "id": 4,
+      "name": "FC Bayern Munich",
+      "code": "FCB",
+      "country": "Germany"
+    },
+    {
+      "id": 5,
+      "name": "Borussia Dortmund",
+      "code": "BVB",
+      "country": "Germany"
+    },
+    {
+      "id": 6,
+      "name": "Olympique de Marseille",
+      "code": "OLM",
+      "country": "France"
+    },
+    {
       "id": 7,
-      "name": "Genoa CFC",
-      "code": "GEN",
-      "country": "Italy"
+      "name": "FC Barcelona",
+      "code": "BAR",
+      "country": "Spain"
     },
     {
       "id": 8,
-      "name": "FC Crotone",
-      "code": "CRO",
-      "country": "Italy"
+      "name": "Chelsea FC",
+      "code": "CHE",
+      "country": "England"
     },
+
     {
       "id": 9,
-      "name": "US Sassuolo Calcio",
-      "code": "SAS",
-      "country": "Italy"
+      "name": "Manchester United FC",
+      "code": "MUN",
+      "country": "England"
     },
     {
       "id": 10,
-      "name": "Cagliari Calcio",
-      "code": "CAG",
-      "country": "Italy"
+      "name": "Celtic FC",
+      "code": "CEL",
+      "country": "Scotland"
     }
   ]
 }
