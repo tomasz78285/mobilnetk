@@ -20,7 +20,7 @@
           "name": "Stadio Artemio Franchi",
           "capacity": 43147
         },
-      "img" = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/1200px-Borussia_Dortmund_logo.svg.png"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/1200px-Borussia_Dortmund_logo.svg.png"
     },
     {
       "id": 2,
@@ -41,7 +41,7 @@
           "name": "Stadio Olimpico",
           "capacity": 70634
         },
-      "img" = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/1200px-Borussia_Dortmund_logo.svg.png"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/1200px-Borussia_Dortmund_logo.svg.png"
     },
      {
       "id": 3,
@@ -62,7 +62,7 @@
           "name": "Stadio Diego Armando Maradona",
           "capacity": 54726
         },
-      "img" = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/1200px-Borussia_Dortmund_logo.svg.png"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/1200px-Borussia_Dortmund_logo.svg.png"
     },
     {
       "id": 4,
@@ -83,7 +83,7 @@
           "name": "Allianz Arena",
           "capacity": 75024
         },
-      "img" = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/1200px-Borussia_Dortmund_logo.svg.png"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/1200px-Borussia_Dortmund_logo.svg.png"
     },
     {
       "id": 5,
@@ -104,7 +104,7 @@
           "name": "Signal Iduna Park",
           "capacity": 81365
         },
-      "img" = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/1200px-Borussia_Dortmund_logo.svg.png"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/1200px-Borussia_Dortmund_logo.svg.png"
     },
     {
       "id": 6,
@@ -125,7 +125,7 @@
           "name": "Stade Vélodrome",
           "capacity": 67394
         },
-      "img" = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/1200px-Borussia_Dortmund_logo.svg.png"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/1200px-Borussia_Dortmund_logo.svg.png"
     },
     {
       "id": 7,
@@ -146,7 +146,7 @@
           "name": "Camp Nou",
           "capacity": 99354
         },
-      "img" = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/1200px-Borussia_Dortmund_logo.svg.png"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/1200px-Borussia_Dortmund_logo.svg.png"
     },
     {
       "id": 8,
@@ -167,7 +167,7 @@
           "name": "Stamford Bridge",
           "capacity": 41837
         },
-      "img" = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/1200px-Borussia_Dortmund_logo.svg.png"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/1200px-Borussia_Dortmund_logo.svg.png"
     },
     {
       "id": 9,
@@ -188,7 +188,7 @@
           "name": "Old Trafford",
           "capacity": 74310
         },
-      "img" = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/1200px-Borussia_Dortmund_logo.svg.png"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/1200px-Borussia_Dortmund_logo.svg.png"
     },
     {
       "id": 10,
@@ -209,7 +209,7 @@
           "name": "Celtic Park",
           "capacity": 60411
         },
-      "img" = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/1200px-Borussia_Dortmund_logo.svg.png"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/1200px-Borussia_Dortmund_logo.svg.png"
     }
   ]
 }
