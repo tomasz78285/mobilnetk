@@ -1,24 +1,3 @@
-Mobilne zaliczenie:
-
-1. Projekt - unikalny temat
-2. Dowolna technologia max. 2 w jednej grupie
-3. Obsługa danej struktury json (JSON w zasobie zdalnym!!! nie lokalnie):
-	- min. 10 obiektów w obiekcie lub 10 obiektów w tablicy
-	- w danym obiekcie których jest 10 ma być 10 par klucz-wartość w tym min.
-	  dwa zagnieżdżone obiekty oraz min. jedna referencja do zenętrznego źródła
-4. Kategorie:
-	- Aplikacja webowa RWD (max 3)
-	- Aplikacja webowa PWA (max 4)
-	- Aplikacja webowa natywna (3-5)
-	- Hybrydowa (3-5)
-	- Natywnie kompilowana (3-5)
-	- Natywna (4-5)
-5. Lista obiektów JSONa
-6. Obiekty zagnieżdżone zrealizowane za pomocą innej kontrolki.
-7. Ma być cache (wyświetlanie offline).
-8. Jeden projekt dozwolony na 2 przedmioty.
-9. Można wziąć obcego JSONa.
-
 {
   "italy": [
     {
