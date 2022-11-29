@@ -1,226 +1,105 @@
 {
-  "italy": [
+  "name": "Serie A 2020/21",
+  "clubs": [
     {
-      "id": 1,
       "name": "ACF Fiorentina",
       "code": "FIO",
       "country": "Italy"
     },
     {
-      "id": 2,
       "name": "Torino FC",
       "code": "TOR",
       "country": "Italy"
     },
     {
-      "id": 3,
       "name": "Hellas Verona",
       "code": "HEL",
       "country": "Italy"
     },
     {
-      "id": 4,
       "name": "AS Roma",
       "code": "ROM",
       "country": "Italy"
     },
     {
-      "id": 5,
       "name": "Parma",
       "code": "PAR",
       "country": "Italy"
     },
     {
-      "id": 6,
       "name": "SSC Napoli",
       "code": "NAP",
       "country": "Italy"
     },
     {
-      "id": 7,
       "name": "Genoa CFC",
       "code": "GEN",
       "country": "Italy"
     },
     {
-      "id": 8,
       "name": "FC Crotone",
       "code": "CRO",
       "country": "Italy"
     },
     {
-      "id": 9,
       "name": "US Sassuolo Calcio",
       "code": "SAS",
       "country": "Italy"
     },
     {
-      "id": 10,
       "name": "Cagliari Calcio",
       "code": "CAG",
       "country": "Italy"
     },
     {
-      "id": 11,
       "name": "Juventus",
       "code": "JUV",
       "country": "Italy"
     },
     {
-      "id": 12,
       "name": "UC Sampdoria",
       "code": "SAM",
       "country": "Italy"
     },
     {
-      "id": 13,
       "name": "AC Milan",
       "code": "MIL",
       "country": "Italy"
     },
     {
-      "id": 14,
       "name": "Bologna FC",
       "code": "BOL",
       "country": "Italy"
     },
     {
-      "id": 15,
       "name": "Atalanta Bergamo",
       "code": "ATA",
       "country": "Italy"
     },
     {
-      "id": 16,
       "name": "SS Lazio",
       "code": "LAZ",
       "country": "Italy"
     },
     {
-      "id": 17,
       "name": "Benevento",
       "code": null,
       "country": "Italy"
     },
     {
-      "id": 18,
       "name": "FC Internazionale Milano",
       "code": "INT",
       "country": "Italy"
     },
     {
-      "id": 19,
       "name": "Spezia",
       "code": null,
       "country": "Italy"
     },
     {
-      "id": 20,
       "name": "Udinese Calcio",
       "code": "UDI",
       "country": "Italy"
-    }
-  ],
-  "spain": [
-    {
-      "name": "SD Eibar",
-      "code": null,
-      "country": "Spain"
-    },
-    {
-      "name": "RC Celta Vigo",
-      "code": "CEL",
-      "country": "Spain"
-    },
-    {
-      "name": "Granada CF",
-      "code": "GRA",
-      "country": "Spain"
-    },
-    {
-      "name": "Athletic Club Bilbao",
-      "code": "ATH",
-      "country": "Spain"
-    },
-    {
-      "name": "Cádiz CF",
-      "code": null,
-      "country": "Spain"
-    },
-    {
-      "name": "CA Osasuna",
-      "code": "OSA",
-      "country": "Spain"
-    },
-    {
-      "name": "FC Barcelona",
-      "code": "BAR",
-      "country": "Spain"
-    },
-    {
-      "name": "Elche CF",
-      "code": "ELC",
-      "country": "Spain"
-    },
-    {
-      "name": "Real Madrid",
-      "code": "RMD",
-      "country": "Spain"
-    },
-    {
-      "name": "Getafe CF",
-      "code": "GET",
-      "country": "Spain"
-    },
-    {
-      "name": "Deportivo Alavés",
-      "code": null,
-      "country": "Spain"
-    },
-    {
-      "name": "Real Betis",
-      "code": "BET",
-      "country": "Spain"
-    },
-    {
-      "name": "Real Valladolid CF",
-      "code": "VID",
-      "country": "Spain"
-    },
-    {
-      "name": "Real Sociedad",
-      "code": "RSO",
-      "country": "Spain"
-    },
-    {
-      "name": "Villarreal CF",
-      "code": "VLL",
-      "country": "Spain"
-    },
-    {
-      "name": "SD Huesca",
-      "code": null,
-      "country": "Spain"
-    },
-    {
-      "name": "Valencia CF",
-      "code": "VAL",
-      "country": "Spain"
-    },
-    {
-      "name": "Levante UD",
-      "code": "LEV",
-      "country": "Spain"
-    },
-    {
-      "name": "Atlético Madrid",
-      "code": "ATL",
-      "country": "Spain"
-    },
-    {
-      "name": "Sevilla FC",
-      "code": "SEV",
-      "country": "Spain"
     }
   ]
 }
