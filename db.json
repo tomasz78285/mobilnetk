@@ -1,6 +1,4 @@
 {
-  "clubs": [
-    {
       "id": 1,
       "name": "ACF Fiorentina",
       "code": "FIO",
@@ -180,5 +178,4 @@
         "capacity": 60411
       ]
     }
-  ]
-}
+
