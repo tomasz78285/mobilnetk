@@ -1,30 +1,6 @@
-    {
-      "id": 1,
-      "name": "ACF Fiorentina",
-      "code": "FIO",
-      "country": "Italy"
-    },
-    {
-      "id": 2,
-      "name": "Torino FC",
-      "code": "TOR",
-      "country": "Italy"
-    },
-    {
-      "id": 3,
-      "name": "Hellas Verona",
-      "code": "HEL",
-      "country": "Italy"
-    },
-    {
-      "id": 4,
-      "name": "AS Roma",
-      "code": "ROM",
-      "country": "Italy"
-    },
-    {
-      "id": 5,
-      "name": "Parma",
-      "code": "PAR",
-      "country": "Italy"
-    }
+{
+  "id": 1,
+  "name": "ACF Fiorentina",
+  "code": "FIO",
+  "country": "Italy"
+}
