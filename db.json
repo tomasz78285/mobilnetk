@@ -20,7 +20,7 @@
           "name": "Stadio Artemio Franchi",
           "capacity": 43147
         },
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/1200px-Borussia_Dortmund_logo.svg.png"
+      "img": "https://intermediolan.com/img/kluby/13-152015823.png"
     },
     {
       "id": 2,
@@ -41,7 +41,7 @@
           "name": "Stadio Olimpico",
           "capacity": 70634
         },
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/1200px-Borussia_Dortmund_logo.svg.png"
+      "img": "https://www.klubykoszula.pl/image/cache/catalog/Club/as-roma-200x200.jpg"
     },
      {
       "id": 3,
@@ -62,7 +62,7 @@
           "name": "Stadio Diego Armando Maradona",
           "capacity": 54726
         },
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/1200px-Borussia_Dortmund_logo.svg.png"
+      "img": "https://www.koszulkiskleppl.com/image/cache/catalog/Club/ssc-napoli-200x200.webp"
     },
     {
       "id": 4,
@@ -83,7 +83,7 @@
           "name": "Allianz Arena",
           "capacity": 75024
         },
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/1200px-Borussia_Dortmund_logo.svg.png"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_FC_Bayern_M%C3%BCnchen_%282002%E2%80%932017%29.svg/2048px-Logo_FC_Bayern_M%C3%BCnchen_%282002%E2%80%932017%29.svg.png"
     },
     {
       "id": 5,
@@ -125,7 +125,7 @@
           "name": "Stade Vélodrome",
           "capacity": 67394
         },
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/1200px-Borussia_Dortmund_logo.svg.png"
+      "img": "https://www.koszulkiskleppl.com/image/cache/catalog/Club/olympique-marsylia-200x200.webp"
     },
     {
       "id": 7,
@@ -146,7 +146,7 @@
           "name": "Camp Nou",
           "capacity": 99354
         },
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/1200px-Borussia_Dortmund_logo.svg.png"
+      "img": "data:image/jpeg;base64,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"
     },
     {
       "id": 8,
@@ -167,7 +167,7 @@
           "name": "Stamford Bridge",
           "capacity": 41837
         },
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/1200px-Borussia_Dortmund_logo.svg.png"
+      "img": "https://static.wikia.nocookie.net/kibice/images/f/f6/1200px-Chelsea_crest.svg_.png/revision/latest/scale-to-width-down/200?cb=20190815181908&path-prefix=pl"
     },
     {
       "id": 9,
@@ -188,7 +188,7 @@
           "name": "Old Trafford",
           "capacity": 74310
         },
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/1200px-Borussia_Dortmund_logo.svg.png"
+      "img": "https://myplaceloungechiangmai.com/wp-content/uploads/2017/08/manchester-united-logo-vector-200x200.png"
     },
     {
       "id": 10,
@@ -209,7 +209,7 @@
           "name": "Celtic Park",
           "capacity": 60411
         },
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/1200px-Borussia_Dortmund_logo.svg.png"
+      "img": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0021/1048/brand.gif?itok=Zci9fjB2"
     }
   ]
 }
