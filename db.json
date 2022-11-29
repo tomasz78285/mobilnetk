@@ -23,7 +23,7 @@
       "name": "AS Roma",
       "code": "ROM",
       "country": "Italy",
-      "year_of_creation": 1926,
+      "year_of_creation": 1927,
       "owner": "The Friedkin Group, Inc.",
       "coach": "Jose Mourinho"
       "address": [
@@ -41,6 +41,7 @@
       "name": "SSC Napoli",
       "code": "NAP",
       "country": "Italy",
+      "year_of_creation": 1926,
       "owner": "Filmauro",
       "coach": "Luciano Spalletti"
       "address": [
@@ -58,6 +59,7 @@
       "name": "FC Bayern Munich",
       "code": "FCB",
       "country": "Germany",
+      "year_of_creation": 1900,
       "owner": "Herbert Hainer",
       "coach": "Julian Nagelsmann"
       "address": [
@@ -75,6 +77,7 @@
       "name": "Borussia Dortmund",
       "code": "BVB",
       "country": "Germany",
+      "year_of_creation": 1909,
       "owner": "Reinhard Rauball",
       "coach": "Edin Terzić"
       "address": [
@@ -92,6 +95,7 @@
       "name": "Olympique de Marseille",
       "code": "OLM",
       "country": "France",
+      "year_of_creation": 1899,
       "owner": "Frank McCourt",
       "coach": "Igor Tudor"
       "address": [
@@ -109,6 +113,7 @@
       "name": "FC Barcelona",
       "code": "BAR",
       "country": "Spain",
+      "year_of_creation": 1899,
       "owner": "Joan Laporta",
       "coach": "Xavier Hernandez Creus"
       "address": [
@@ -126,6 +131,7 @@
       "name": "Chelsea FC",
       "code": "CHE",
       "country": "England",
+      "year_of_creation": 1905,
       "owner": "Todd Boehly",
       "coach": "Graham Potter"
       "address": [
@@ -143,6 +149,7 @@
       "name": "Manchester United FC",
       "code": "MUN",
       "country": "England",
+      "year_of_creation": 1878,
       "owner": "The Glazer family",
       "coach": "Erik ten Hag"
       "address": [
@@ -160,6 +167,7 @@
       "name": "Celtic FC",
       "code": "CEL",
       "country": "Scotland",
+      "year_of_creation": 1887,
       "owner": "Ian Bankier",
       "coach": "Ange Postecoglou"
       "address": [
