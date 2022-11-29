@@ -1,5 +1,3 @@
-{
-  "clubs": [
     {
       "id": 1,
       "name": "ACF Fiorentina",
@@ -30,5 +28,3 @@
       "code": "PAR",
       "country": "Italy"
     }
-  ]
-}
