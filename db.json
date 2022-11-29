@@ -53,13 +53,17 @@
       "owner": "Filmauro",
       "coach": "Luciano Spalletti",
       "address": [
-        "city": "Naples",
-        "street": "Via del Maio di Porto ",
-        "number": 9
+        {
+          "city": "Naples",
+          "street": "Via del Maio di Porto ",
+          "number": 9
+        }
       ],
       "stadium": [
-        "name": "Stadio Diego Armando Maradona",
-        "capacity": 54726
+        {
+          "name": "Stadio Diego Armando Maradona",
+          "capacity": 54726
+        }
       ]
     },
     {
@@ -71,13 +75,17 @@
       "owner": "Herbert Hainer",
       "coach": "Julian Nagelsmann",
       "address": [
-        "city": "Munich",
-        "street": "Säbener Straße",
-        "number": 51
+        {
+          "city": "Munich",
+          "street": "Säbener Straße",
+          "number": 51
+        }
       ],
       "stadium": [
-        "name": "Allianz Arena",
-        "capacity": 75024
+        {
+          "name": "Allianz Arena",
+          "capacity": 75024
+        }
       ]
     },
     {
@@ -89,13 +97,17 @@
       "owner": "Reinhard Rauball",
       "coach": "Edin Terzić",
       "address": [
-        "city": "Dortmund",
-        "street": "Rheinlanddamm",
-        "number": 207
+        {
+          "city": "Dortmund",
+          "street": "Rheinlanddamm",
+          "number": 207
+        }
       ],
       "stadium": [
-        "name": "Signal Iduna Park",
-        "capacity": 81365
+        {  
+          "name": "Signal Iduna Park",
+          "capacity": 81365
+        }
       ]
     },
     {
@@ -107,13 +119,17 @@
       "owner": "Frank McCourt",
       "coach": "Igor Tudor",
       "address": [
-        "city": "Marseille",
-        "street": "Place Daviel",
-        "number": 1
+        {
+          "city": "Marseille",
+          "street": "Place Daviel",
+          "number": 1
+        }
       ],
       "stadium": [
-        "name": "Stade Vélodrome",
-        "capacity": 67394
+        {
+          "name": "Stade Vélodrome",
+          "capacity": 67394
+        }
       ]
     },
     {
@@ -125,13 +141,17 @@
       "owner": "Joan Laporta",
       "coach": "Xavier Hernandez Creus",
       "address": [
-        "city": "Barcelona",
-        "street": "Avinguda Arístides Maillol",
-        "number": 1
+        {
+          "city": "Barcelona",
+          "street": "Avinguda Arístides Maillol",
+          "number": 1
+        }
       ],
       "stadium": [
-        "name": "Camp Nou",
-        "capacity": 99354
+        {
+          "name": "Camp Nou",
+          "capacity": 99354
+        }
       ]
     },
     {
@@ -143,13 +163,17 @@
       "owner": "Todd Boehly",
       "coach": "Graham Potter",
       "address": [
-        "city": "Chelsea",
-        "street": "Fulham Road",
-        "number": 1
+        {
+          "city": "Chelsea",
+          "street": "Fulham Road",
+          "number": 1
+        }
       ],
       "stadium": [
-        "name": "Stamford Bridge",
-        "capacity": 41837
+        {
+          "name": "Stamford Bridge",
+          "capacity": 41837
+        }
       ]
     },
     {
@@ -161,13 +185,17 @@
       "owner": "The Glazer family",
       "coach": "Erik ten Hag",
       "address": [
-        "city": "Manchester",
-        "street": "Sir Matt Busby Way",
-        "number": 16
+        {
+          "city": "Manchester",
+          "street": "Sir Matt Busby Way",
+          "number": 16
+        }
       ],
       "stadium": [
-        "name": "Old Trafford",
-        "capacity": 74310
+        {
+          "name": "Old Trafford",
+          "capacity": 74310
+        }
       ]
     },
     {
@@ -179,13 +207,17 @@
       "owner": "Ian Bankier",
       "coach": "Ange Postecoglou",
       "address": [
-        "city": "Glasgow",
-        "street": "Kerrydale Street",
-        "number": 18
+        {
+          "city": "Glasgow",
+          "street": "Kerrydale Street",
+          "number": 18
+        }
       ],
       "stadium": [
-        "name": "Celtic Park",
-        "capacity": 60411
+        { 
+          "name": "Celtic Park",
+          "capacity": 60411
+        }
       ]
     }
   ]
