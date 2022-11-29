@@ -1,104 +1,33 @@
 {
-  "name": "Serie A 2020/21",
   "clubs": [
     {
+      "id": 1,
       "name": "ACF Fiorentina",
       "code": "FIO",
       "country": "Italy"
     },
     {
+      "id": 2,
       "name": "Torino FC",
       "code": "TOR",
       "country": "Italy"
     },
     {
+      "id": 3,
       "name": "Hellas Verona",
       "code": "HEL",
       "country": "Italy"
     },
     {
+      "id": 4,
       "name": "AS Roma",
       "code": "ROM",
       "country": "Italy"
     },
     {
+      "id": 5,
       "name": "Parma",
       "code": "PAR",
-      "country": "Italy"
-    },
-    {
-      "name": "SSC Napoli",
-      "code": "NAP",
-      "country": "Italy"
-    },
-    {
-      "name": "Genoa CFC",
-      "code": "GEN",
-      "country": "Italy"
-    },
-    {
-      "name": "FC Crotone",
-      "code": "CRO",
-      "country": "Italy"
-    },
-    {
-      "name": "US Sassuolo Calcio",
-      "code": "SAS",
-      "country": "Italy"
-    },
-    {
-      "name": "Cagliari Calcio",
-      "code": "CAG",
-      "country": "Italy"
-    },
-    {
-      "name": "Juventus",
-      "code": "JUV",
-      "country": "Italy"
-    },
-    {
-      "name": "UC Sampdoria",
-      "code": "SAM",
-      "country": "Italy"
-    },
-    {
-      "name": "AC Milan",
-      "code": "MIL",
-      "country": "Italy"
-    },
-    {
-      "name": "Bologna FC",
-      "code": "BOL",
-      "country": "Italy"
-    },
-    {
-      "name": "Atalanta Bergamo",
-      "code": "ATA",
-      "country": "Italy"
-    },
-    {
-      "name": "SS Lazio",
-      "code": "LAZ",
-      "country": "Italy"
-    },
-    {
-      "name": "Benevento",
-      "code": null,
-      "country": "Italy"
-    },
-    {
-      "name": "FC Internazionale Milano",
-      "code": "INT",
-      "country": "Italy"
-    },
-    {
-      "name": "Spezia",
-      "code": null,
-      "country": "Italy"
-    },
-    {
-      "name": "Udinese Calcio",
-      "code": "UDI",
       "country": "Italy"
     }
   ]
