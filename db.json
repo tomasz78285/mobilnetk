@@ -1,4 +1,6 @@
-[{
+{
+   "clubs": [
+    {
       "id": 1,
       "name": "ACF Fiorentina",
       "code": "FIO",
@@ -177,5 +179,8 @@
         "name": "Celtic Park",
         "capacity": 60411
       ]
-    }]
+    }
+  ]
+}
+
 
