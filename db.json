@@ -27,7 +27,7 @@
       "owner": "The Friedkin Group, Inc.",
       "coach": "Jose Mourinho"
       "address": [
-        "city": "Rome,
+        "city": "Rome",
         "street": "Piazzale Dino Viola",
         "number": 1
       ],
@@ -45,7 +45,7 @@
       "owner": "Filmauro",
       "coach": "Luciano Spalletti"
       "address": [
-        "city": "Naples,
+        "city": "Naples",
         "street": "Via del Maio di Porto ",
         "number": 9
       ],
@@ -63,7 +63,7 @@
       "owner": "Herbert Hainer",
       "coach": "Julian Nagelsmann"
       "address": [
-        "city": "Munich,
+        "city": "Munich",
         "street": "Säbener Straße",
         "number": 51
       ],
@@ -81,7 +81,7 @@
       "owner": "Reinhard Rauball",
       "coach": "Edin Terzić"
       "address": [
-        "city": "Dortmund,
+        "city": "Dortmund",
         "street": "Rheinlanddamm",
         "number": 207
       ],
@@ -99,7 +99,7 @@
       "owner": "Frank McCourt",
       "coach": "Igor Tudor"
       "address": [
-        "city": "Marseille,
+        "city": "Marseille",
         "street": "Place Daviel",
         "number": 1
       ],
@@ -117,7 +117,7 @@
       "owner": "Joan Laporta",
       "coach": "Xavier Hernandez Creus"
       "address": [
-        "city": "Barcelona,
+        "city": "Barcelona",
         "street": "Avinguda Arístides Maillol",
         "number": 1
       ],
@@ -153,7 +153,7 @@
       "owner": "The Glazer family",
       "coach": "Erik ten Hag"
       "address": [
-        "city": "Manchester,
+        "city": "Manchester",
         "street": "Sir Matt Busby Way",
         "number": 16
       ],
@@ -171,7 +171,7 @@
       "owner": "Ian Bankier",
       "coach": "Ange Postecoglou"
       "address": [
-        "city": "Glasgow,
+        "city": "Glasgow",
         "street": "Kerrydale Street",
         "number": 18
       ],
