@@ -1,6 +1,8 @@
-{
-  "id": 1,
-  "name": "ACF Fiorentina",
-  "code": "FIO",
-  "country": "Italy"
-}
+[
+  {
+    "id": 1,
+    "name": "ACF Fiorentina",
+    "code": "FIO",
+    "country": "Italy"
+  }
+]
